@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 10px;
+}
+.section-one{
+    background-color: black;
+    padding: 20px;
+   
+}
+.section-one__head{
+    color: white;
+   text-align: center;
+}
+.section-one__description{
+    color: grey;
+    text-align: center;
+}
+.card{
+    padding: 50px;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 100px;
+}
+.card-one{
+    height:520px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: large;
+    display:inline-block;
+}
+.card-one__describe{
+    padding: 10px;
+}
+.card-one__view{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border: none;
+    margin-left: 80px;
+
+}
+.card-one__view:hover{
+    background-color:gray;
+}
+.card-one__image-1{
+    height: 300px;
+    width: 300px;
+}
+.card-two{
+    height:520px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: large;
+    display: inline-block;
+}
+.card-two__describe{
+    padding: 10px;
+}
+.card-two__view{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border: none;
+    margin-left: 80px;
+
+}
+.card-two__image-2{
+    height: 300px;
+    width: 300px;
+}
+.card-two__view:hover{
+    background-color:gray;
+}
+.card-three{
+    height:520px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: large;
+    display: inline-block;
+   
+}
+.card-three__describe{
+    padding: 10px;
+}
+.card-three__view{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border: none;
+    margin-left: 80px;
+
+}
+.card-three__view:hover{
+    background-color:gray;
+}
+.card-three__image-3{
+    height: 300px;
+    width: 300px;
+}
+.card-four{
+    height:520px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: large;
+    display: inline-block;
+   
+}
+
+.card-four__describe{
+    padding: 10px;
+}
+.card-four__view{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border: none;
+    margin-left: 80px;
+
+}
+.card-four__view:hover{
+    background-color:gray;
+}
+.card-four__image-4{
+  
+   height: 300px;
+   width: 300px;
+}
+.card-one,.card-two,.card-three,.card-four{
+    margin-top: 10px;
+}
+.footer{
+    padding: 20px;
+    background-color: black;
+}
+.footer__contect{
+    text-align: center;
+    color: aliceblue;
+}
+.footer__form{
+  color: aliceblue;
+  margin-top: 10px;
+  justify-items: center;
+
+}
+.form__input{
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+.footer__button{
+    
+    padding: 3px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    justify-self: center;
+    width: 400px;
+    margin-top: 10px;
+    background-color: rgb(228, 176, 4);
+
+}
